@@ -20,6 +20,16 @@
     }
 }
 
+iframe {
+    border: 0;
+    overflow: hidden;
+}
+
+#ghbtns-badge {
+    width: 88px;
+    height: 20px;
+}
+
 .input-group .dropdown-toggle::after {
     transition: -webkit-transform .35s ease;
     transition: transform .35s ease;
